@@ -5,7 +5,7 @@
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "https://miona.bot/logo.png",
   "colors": {
     "primary": "#a855f7",
     "light": "#c084fc",
@@ -34,19 +34,14 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "name": "Support",
+      "icon": "discord",
+      "url": "https://discord.gg/JD2KZJCTFt"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
+      "name": "Embed Builder",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://messages.miona.bot"
     }
   ],
   "navigation": [
